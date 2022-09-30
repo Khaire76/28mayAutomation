@@ -1,0 +1,13 @@
+package test1;
+
+public class Demo1
+{
+	public static void main(String[] args)
+	{
+		System.out.println("hii");
+		
+		System.out.println("Welcome To Velocity");
+		
+	}
+
+}
